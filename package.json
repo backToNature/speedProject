@@ -1,0 +1,23 @@
+{
+  "name": "speedProject",
+  "version": "1.1.1",
+  "description": "简易项目生成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/backToNature/speedProject.git"
+  },
+  "author": "Guohao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backToNature/speedProject/issues"
+  },
+  "homepage": "https://github.com/backToNature/speedProject",
+  "devDependencies": {
+      "fs": "*",
+      "gulp": "*"
+  }
+}
